@@ -73,12 +73,9 @@ ewma_pandas	            0.276
 (Actual times will vary by system.)
 
 📚 References
-NumPy Docs
-
-pandas Rolling Windows
-
-FFT Tutorial (SciPy)
-
+* https://numpy.org/doc/
+* https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html
+* https://docs.scipy.org/doc/scipy/tutorial/fft.html
 
 
 
