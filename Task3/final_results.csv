@@ -1,0 +1,5 @@
+Function,time_sec,function
+rolling_stats_numpy,0.05135710000467952,
+rolling_stats_pandas,0.0944172999879811,
+,0.37632579999626614,ewma_numpy
+,0.014287900005001575,ewma_pandas
