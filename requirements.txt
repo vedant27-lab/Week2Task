@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+flask
+textblob
+xgboost
+notebook
+ipykernel
+
+#pip install -r requirements.txt
